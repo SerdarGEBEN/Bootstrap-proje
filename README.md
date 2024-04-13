@@ -4,6 +4,7 @@ Bu sitemizde güncel iş ilanlarının listelendiği bir arayüz elde ettik.
 
 # Özellikler
 -Full responsive yapıda olan sitemizde güzel bir arayüz oluşturduk.
+
 -Renk geçişleri ve hover efektleri ile görsel olarak destekledik.
 
 # Ekran Kaydı:
